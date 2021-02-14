@@ -28,6 +28,7 @@ The main purpose of this repository is to design, develop and evolve the infrast
 Read below to learn how you can take part in making human knowledge accessible to all without need of a centralized authority.
 
 ### [Code of Conduct](CODE_OF_CONDUCT.md)
+To keep our community lively and thriving, please follow all practices our Code of Conduct
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
