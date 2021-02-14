@@ -15,11 +15,11 @@ The Reference has an ambitious goal to be the **Distributed Knowledge Library** 
 
 We believe knowledge is the right of all human beings.
 
-Access to knowledge should not be ~~**centralized**~~ but be freely available to all.
+Access to knowledge should not be ~~**centralized**~~ but freely available to all.
 
 We aim to capture the world's knowledge on a global distributed blockchain accessible to anyone.
 
-[The Reference](https://www.thereference.page) is a pioneering project where you can help build the infrastructure for a decentralized human knowledgebase that is freely accessible all learners around the world.
+[The Reference](https://www.thereference.page) is a pioneering project where you can help build the infrastructure for a decentralized human knowledge base that is freely accessible to all learners around the world.
 
 ## Contributing
 
