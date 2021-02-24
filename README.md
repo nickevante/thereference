@@ -19,7 +19,7 @@ Access to knowledge should not be ~~**centralized**~~ but freely available to al
 
 We aim to capture the world's knowledge on a global distributed blockchain accessible to anyone.
 
-[The Reference](https://www.thereference.page) is a pioneering project where you can help build the infrastructure for a decentralized human knowledge base that is freely accessible to all learners around the world.
+[The Reference](https://thereference.page/) is a pioneering project where you can help build the infrastructure for a decentralized human knowledge base that is freely accessible to all learners around the world.
 
 ## Contributing
 
